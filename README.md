@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **chaudharyarpit347@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TXjRFQvdkhYR2YSHVWfGFet7Yfp62z5Q/view?usp=sharing](https://drive.google.com/file/d/1TXjRFQvdkhYR2YSHVWfGFet7Yfp62z5Q/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TXjRFQvdkhYR2YSHVWfGFet7Yfp62z5Q/view?usp=sharing](https://drive.google.com/file/d/1wY-iAY5u27KCS_55n_Snh7XCBCa3eyGl/view?usp=sharing)
 
 - ⚡ Fun fact **I think I have decent People Skills.**
 
