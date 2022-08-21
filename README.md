@@ -1,3 +1,5 @@
+![MasterHead](https://user-images.githubusercontent.com/99640872/185783481-a429aae8-b1ba-4afd-81f3-5a4e30883313.gif)
+
 <h1 align="center">Hi 👋, I'm Arpit Chaudhary</h1>
 <h3 align="center">A Passionate Full Stack Web Developer from India. I Love to work on purposeful and meaningful projects that help me enhance my skills and solve bigger ang bigger problems.</h3>
 <br/>
