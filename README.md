@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/99640872/185783481-a429aae8-b1ba-4afd-81f3-5a4e30883313.gif)
 
 <h1 align="center">Hi 👋, I'm Arpit Chaudhary</h1>
-<h3 align="center">A Passionate Full Stack Web Developer from India. I Love to work on purposeful and meaningful projects that help me enhance my skills and solve bigger ang bigger problems.</h3>
+<h3 align="center">Results-driven Full Stack Engineer with over 2 years of experience, specializing in Node.js and React.js. Successfully migrated and optimized legacy assessment systems, leading cross-team handovers and productionalizing critical tools for content ingestion and assessment data processing, enhancing overall platform efficiency and user experience. Proficient in handling large- scale data migrations, system transformations, and API integrations, demonstrating exceptional technical acumen and project management skills.</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitchaudhary03&label=Profile%20views&color=0e75b6&style=flat" alt="arpitchaudhary03" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌍 I'm based in **Udaipur, Rajasthan**
 
-- 🌱 I’m currently learning **ReactJS, NodeJS, ExpressJS, MongoDB**
+- 🌱 I’m currently learning **NextJS, Python, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://arpit-chaudhary-portfolio.vercel.app/](https://arpit-chaudhary-portfolio.vercel.app/)
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **chaudharyarpit347@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TXjRFQvdkhYR2YSHVWfGFet7Yfp62z5Q/view?usp=sharing](https://drive.google.com/file/d/1wY-iAY5u27KCS_55n_Snh7XCBCa3eyGl/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TXjRFQvdkhYR2YSHVWfGFet7Yfp62z5Q/view?usp=sharing](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto)
 
 - ⚡ Fun fact **I think I have decent People Skills.**
 
