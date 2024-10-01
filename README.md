@@ -19,9 +19,9 @@
 
 - 📫 How to reach me **chaudharyarpit347@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TXjRFQvdkhYR2YSHVWfGFet7Yfp62z5Q/view?usp=sharing](https://drive.google.com/drive/home?dmr=1&ec=wgc-drive-hero-goto)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1TXjRFQvdkhYR2YSHVWfGFet7Yfp62z5Q/view?usp=sharing](https://drive.google.com/file/d/14x4Ug-1yeEnZwPcuUdHEOcTZfcmoi85t/view?usp=drive_link)
 
-- ⚡ Fun fact **I think I have decent People Skills.**
+- ⚡ Fun fact **I go for hiking once a year !**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
