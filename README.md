@@ -15,7 +15,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@chaudharyarpit347](https://medium.com/@chaudharyarpit347)
 
-- 💬 Ask me about **ReactJS NodeJS MongoDB**
+- 💬 Ask me about **ReactJS, NodeJS, Kafka, Typescript, Postgres**
 
 - 📫 How to reach me **chaudharyarpit347@gmail.com**
 
